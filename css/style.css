@@ -1,0 +1,165 @@
+.header_word{
+    width: 1250px;
+    background-color: blue;
+    color: white;
+    text-align: right;    
+}
+.box{
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+}
+.お問い合わせ{
+    box-sizing    : border-box;
+    width         : 100%;
+    margin: 0 auto;
+    max-width     : 250px;
+    height        : 25px;
+    font-size     : 15px;
+    color         : white;
+    background    : red;
+    text-align: center;
+    border-radius : 50px;
+  }
+.title{
+    width: 1250px;;
+    display: flex;
+    justify-content: space-between;
+}
+.center{
+    width: 1250px;
+    height: 250px;
+    background-color: navy;
+    display: flex;
+}
+.left{
+    width:700px;
+    height: 250px;
+    display: flexbox;
+    text-align: center;
+}
+.mendou{
+    color: white;
+}
+.shinsya{
+    box-sizing: border-box;
+    width: 600px;
+    height: 50px;
+    margin: 5px;
+    background-color: wheat;
+    color: red;
+}
+.nen{
+    color: white;
+}
+.box1{
+    box-sizing    : border-box;
+    width         : 100%;
+    margin: auto;
+    max-width     : 80px;
+    height        : 60px;
+    font-size     : 15px;
+    color         : white;
+    background    : red;
+    border-radius : 15px;
+    display: flexbox;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.boxes{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    box-sizing    : border-box;
+    width         : 100%;
+    margin: auto;
+    max-width     : 300px;
+    height        : 200px;
+    font-size     : 15px;
+    color         : white;
+    background    : grey;
+    border-radius : 25px;
+    display: table-cell;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.touten{
+    color: red;
+    width: 1250px;
+    text-align: center;
+}
+.emoji{
+    width: 1250px;
+    text-align: center;
+}
+
+.products{
+    box-sizing: border-box;
+    width: 100%;
+}
+.price{
+    color: red;
+    text-align: center;
+}
+.syohin{
+    width: 1250px;
+    background-color: wheat;
+}
+.titlex{
+    width: 30%;
+
+}
+.name{
+    background-color: rgb(153, 151, 151);
+    color: black;
+    width: 70%;
+    height: 50px;
+    border:none;
+}
+.email{
+    background-color: rgb(153, 151, 151);
+    color: black;
+    width: 70%;
+    height: 50px;
+    border:none;
+}
+
+.textarea{
+    background-color: rgb(153, 151, 151);
+    color: black;
+    width: 70%;
+    height: 100px;
+    border:none;
+}
+.form{
+    width: 600px;
+    height: 100px;
+    display: flex;
+
+}
+.toiawase{
+    text-align: center;
+}
+.send{
+    border: none;
+    box-sizing    : border-box;
+    width         : 1250px;
+    margin:  auto;
+    max-width     : 250px;
+    height        : 25px;
+    font-size     : 15px;
+    color         : white;
+    background    : red;
+    text-align: center;
+    border-radius : 50px;
+    display:flex ;
+    justify-content: center;
+}
+.zentai{
+    width: 800px;
+    height: 400px;
+    margin: auto;
+}
