@@ -82,9 +82,9 @@
     color         : white;
     background    : grey;
     border-radius : 25px;
-    display: table-cell;
-    flex-wrap: wrap;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .touten{
     color: red;
